@@ -1,0 +1,9 @@
+Deployed URL: https://node-task-1-ukh2.onrender.com/
+
+I have created one endpoint and it is '/' and as instruced filename is current date and time also the file content is current timestamp.
+
+Reading directory will be shown in the console.
+
+GitHub URL: https://github.com/manigandaprabu53/Node-Task-1
+
+Last committed Hash ID: a683135cdb35769ee5f448b30d577c6edf9cb14f
